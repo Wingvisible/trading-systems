@@ -63,3 +63,6 @@ python lstm.py   # builds features, trains the LSTM, prints out-of-sample Sharpe
 | `feature_vectors.py` | Momentum and risk feature matrix for clustering |
 | `k_means.py` | K-means and centroid-probability functions |
 | `lstm.py` | Feature builder, dataset, LSTM, Sharpe loss, train/evaluate |
+
+# Context
+Other regime detection methods were also experimented to see difference with K-means.
